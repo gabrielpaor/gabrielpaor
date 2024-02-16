@@ -1,7 +1,7 @@
 <img align="top" alt="Coding" height="300" width="1000" src="https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif">
 
 <h1 align="center">Hi 👋, I'm Gabriel John Paor</h1>
-<h3 align="center">A graduating student of Polytechnic University of the Philippines. I am interested in Web Development using Django.</h3>
+<h3 align="center">A graduating student of Polytechnic University of the Philippines. I am experienced in both Web development and Mobile development using Javascript frameworks such as React, NextJS, and React-native.</h3>
 <img align="right" alt="Coding" style="width="350"; height="350"" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielpaor&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielpaor" /> </p>
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **gabrielpaor07@gmail.com**
 
-- ⚡ Fun fact **I can sleep wherever I am.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
